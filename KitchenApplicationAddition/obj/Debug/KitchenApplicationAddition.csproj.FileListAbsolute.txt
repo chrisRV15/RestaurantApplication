@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\bin\Debug\KitchenApplicationAddition.exe.config
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\bin\Debug\KitchenApplicationAddition.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\bin\Debug\KitchenApplicationAddition.pdb
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.Form1.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.Properties.Resources.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.pdb
+C:\Users\chris\Documents\Telecom 2023\Final Project\KitchenApplicationAddition\obj\Debug\KitchenApplicationAddition.Forms.ConnecToServer.resources
