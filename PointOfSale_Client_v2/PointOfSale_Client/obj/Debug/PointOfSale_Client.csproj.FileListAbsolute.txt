@@ -1,0 +1,15 @@
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\bin\Debug\PointOfSale_Client.exe.config
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\bin\Debug\PointOfSale_Client.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\bin\Debug\PointOfSale_Client.pdb
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.Forms.AcceptPayment.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.Forms.ConnectToServer.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.Forms.CreateOrder.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.Forms.EndOfDayReport.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.SeatingChart.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.Properties.Resources.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Client_v2\PointOfSale_Client\obj\Debug\PointOfSale_Client.pdb
