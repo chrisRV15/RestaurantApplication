@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\bin\Debug\PointOfSale_Server.exe.config
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\bin\Debug\PointOfSale_Server.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\bin\Debug\PointOfSale_Server.pdb
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.Forms.AcceptPayment.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.Forms.CreateOrder.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.Forms.EndOfDayReport.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.SeatingChart.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.Properties.Resources.resources
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.exe
+C:\Users\chris\Documents\Telecom 2023\Final Project\PointOfSale_Server_v2\PointOfSale_Server\obj\Debug\PointOfSale_Server.pdb
